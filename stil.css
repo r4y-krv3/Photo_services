@@ -1,8 +1,3 @@
-/* ═══════════════════════════════════════
-   Fotografie — stil.css
-   Fără JavaScript, cursor implicit
-═══════════════════════════════════════ */
-
 *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
 
 :root {

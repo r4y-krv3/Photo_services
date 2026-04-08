@@ -1,11 +1,3 @@
-/* ═══════════════════════════════════════
-   navigare.js  —  Calendar dinamic
-   Generează zilele lunii curente,
-   marchează zilele rezervate și azi,
-   injectează radio-uri + reguli CSS
-   pentru selectarea datei fără framework.
-═══════════════════════════════════════ */
-
 document.addEventListener('DOMContentLoaded', () => {
 
   /* ── 1. Date curente ── */
